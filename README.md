@@ -3,7 +3,7 @@
 This is Boyan Sun's repository for QMSS G5074.
 
 ## Homework Assignments
-- [Project 1](project01/)
+- [Project 1](project1/)
 
 ## Contact
 Email: bs3579@columbia.edu
