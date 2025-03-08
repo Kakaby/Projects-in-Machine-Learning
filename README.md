@@ -1,9 +1,9 @@
-# QMSS G5063 Repository
+# QMSS G5074 Repository
 
-This is Boyan Sun's private repository for QMSS G5063.
+This is Boyan Sun's repository for QMSS G5074.
 
 ## Homework Assignments
-- [Homework 1](hw01/)
+- [Project 1](project01/)
 
 ## Contact
 Email: bs3579@columbia.edu
